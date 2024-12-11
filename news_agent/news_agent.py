@@ -10,7 +10,7 @@ load_dotenv()
 
 # Initialize Swarm and set model
 
-MODEL = "llama3.1"
+MODEL = "llama3.2"
 client = Swarm()
 
 # Create specialized agents
